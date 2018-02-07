@@ -1,0 +1,6 @@
+Complete CI/CD set up for your new project/application. Toolset:
+1. Git
+2. Jenkins
+3. Artifactory
+4. Docker
+5. Chef
