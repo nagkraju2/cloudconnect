@@ -4,3 +4,8 @@ Complete CI/CD set up for your new project/application. Toolset:
 3. Artifactory
 4. Docker
 5. Chef
+
+New monitoring tools:
+
+1. NewRelic
+2. AppDynamics
