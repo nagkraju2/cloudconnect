@@ -11,5 +11,14 @@ New monitoring tools:
 2. AppDynamics
 
 
+Migrate to AWS; infra to be added:
+
+1. 04 Reserved EC2 instances (small/micro)
+2. 04 EBS instances
+3. 01 S3 bucket
+4. ELB, ASG, etc
+
+
 
 Final version
+
